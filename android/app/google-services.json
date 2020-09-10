@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "716872912686",
+    "firebase_url": "https://tech-news-8818a.firebaseio.com",
+    "project_id": "tech-news-8818a",
+    "storage_bucket": "tech-news-8818a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716872912686:android:c2c1540a2d4d2e6bdd74bf",
+        "android_client_info": {
+          "package_name": "com.doodlebug.technews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716872912686-tfubchn2e6bnaaqrh6dgrjnqi347lq8n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.doodlebug.technews",
+            "certificate_hash": "f45f45edd530f27119d40516612ddec0d6bccb95"
+          }
+        },
+        {
+          "client_id": "716872912686-es1lo7cga75a6ce2di5qc6ed9f6tp980.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYcfKIofAQfVU-tNZE8158th6vDKvSEVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716872912686-es1lo7cga75a6ce2di5qc6ed9f6tp980.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
